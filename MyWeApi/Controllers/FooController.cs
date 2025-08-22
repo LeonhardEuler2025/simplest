@@ -8,7 +8,7 @@ public class InputFoo
 
 public class OutputFoo
 {
-    public string Result { get; set; }
+    public string Result { get; set; } = String.Empty;
     public bool Success { get; set; }
 }
 

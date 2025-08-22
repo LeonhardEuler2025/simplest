@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyWeApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3bfd80ee9c4e34a4e0823879fd2871b92d90d40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c1227b24db434a5705628cacb3741c0937a882")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyWeApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyWeApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

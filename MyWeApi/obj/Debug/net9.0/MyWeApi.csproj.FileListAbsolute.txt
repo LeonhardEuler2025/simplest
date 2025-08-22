@@ -105,3 +105,4 @@
 /Users/carlgauss/Library/CloudStorage/OneDrive-Personal/work_dev/SimpleTest/MyWeApi/obj/Debug/net9.0/MyWeApi.csproj.Up2Date
 /Users/carlgauss/Library/CloudStorage/OneDrive-Personal/work_dev/SimpleTest/MyWeApi/obj/Debug/net9.0/MyWeApi.genruntimeconfig.cache
 /Users/carlgauss/Library/CloudStorage/OneDrive-Personal/work_dev/SimpleTest/MyWeApi/obj/Debug/net9.0/ref/MyWeApi.dll
+/Users/odinborson/Library/CloudStorage/OneDrive-Personal/work_dev/SimpleTest/MyWeApi/obj/Debug/net9.0/MyWeApi.sourcelink.json
